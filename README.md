@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of datlechin/lang-vietnamese.** Not for installation: use [Packagist](https://packagist.org/packages/datlechin/lang-vietnamese) or the [upstream repository](https://github.com/flarum-lang/vietnamese).
 
-**0** versions archived · Latest: [`2.0.8`](https://github.com/flarchive/flarum-lang-vietnamese/tree/archive/v2.0.8) · License: `MIT` · Flarum: `^2.0`
+**44** versions archived · Latest: [`2.0.8`](https://github.com/flarchive/flarum-lang-vietnamese/tree/archive/v2.0.8) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.12.4` | 2026-09-27 | `^1.4` | [Browse](https://github.com/flarchive/flarum-lang-vietnamese/tree/archive/v1.12.4) |
+| `2.0.2` | 2026-09-27 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-vietnamese/tree/archive/v2.0.2) |
+| `2.0.3` | 2026-10-10 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-vietnamese/tree/archive/v2.0.3) |
+| `2.0.4` | 2026-10-11 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-vietnamese/tree/archive/v2.0.4) |
+| `2.0.5` | 2026-10-12 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-vietnamese/tree/archive/v2.0.5) |
+| `2.0.6` | 2026-10-18 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-vietnamese/tree/archive/v2.0.6) |
+| `2.0.7` | 2026-10-19 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-vietnamese/tree/archive/v2.0.7) |
+| `v1.0.0` | 2021-08-30 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-vietnamese/tree/archive/v1.0.0) |
+| `v1.0.1` | 2021-09-02 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-vietnamese/tree/archive/v1.0.1) |
+| `v1.0.2` | 2021-09-04 | `^1.0.0` | [Browse](https://github.com/flarchive/flarum-lang-vietnamese/tree/archive/v1.0.2) |
+
+[View all 44 versions](https://github.com/flarchive/flarum-lang-vietnamese/tags)
 
 Catalog entry: [packages/flarum-lang-vietnamese.json](https://github.com/flarchive/archive-index/blob/main/packages/flarum-lang-vietnamese.json)
 
